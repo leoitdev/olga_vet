@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <body>
     <center>
-    <h2 style="color:white;">https://sistemasenoferta.blogspot.com/</h2>
+    <h2 style="color:white;">OLGA Vet - Atención Veterinaria</h2>
     </center>
     <div class=" w3l-login-form">
         <h2>Login </h2>
@@ -62,14 +62,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
             </div>
             <div class=" w3l-form-group">
-                <label>Password:</label>
+                <label>Clave:</label>
                 <div class="group">
                     <i class="fas fa-unlock"></i>
                     <input type="password" class="form-control" placeholder="Password" name="password"  required="required" value="admin" />
                 </div>
             </div>
             <div class="forgot">
-                <a href="https://sistemasenoferta.blogspot.com/">CATALOGO SISTEMAS AQUI?</a>
+                <a href="#">Home</a>
                 <p><input type="checkbox">Recordar password</p>
             </div>
             <button type="submit" name="login">Login</button>
@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
        <footer>
           <div class="pull-right">
-                             <a href="https://sistemasenoferta.blogspot.com/">veterinaria</a>
+                             <a href="#">veterinaria</a>
           </div>
           <div class="clearfix"></div>
         </footer>
